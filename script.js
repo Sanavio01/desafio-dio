@@ -1,5 +1,5 @@
 let nome = 'Batman';
-let nivel = 100001;
+let nivel = 1;
 
 if (nivel <= 1000) {
     console.log('O Herói ' + nome + ' está no nível Ferro');
